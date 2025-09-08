@@ -56,7 +56,7 @@
 - [LinkedIn](www.linkedin.com/in/arman-mirzaee-465315240)  
 - [Email](mailto:armanmirzaee78@example.com)  
 - [Website 1](https://armapp.info)
-- [Website 2]([https://armapp.info](https://arman1998.pythonanywhere.com))
+- [Website 2](https://arman1998.pythonanywhere.com)
 
 ---
 ✨ Always learning and growing ✨
