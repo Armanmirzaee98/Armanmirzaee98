@@ -53,7 +53,7 @@
 
 ## 🌐 Contact Me
 
-- [LinkedIn](www.linkedin.com/in/arman-mirzaee-465315240)  
+- [LinkedIn](https://linkedin.com/in/arman-mirzaee-465315240)  
 - [Email](mailto:armanmirzaee78@example.com)  
 - [Website 1](https://armapp.info)
 - [Website 2](https://arman1998.pythonanywhere.com)
