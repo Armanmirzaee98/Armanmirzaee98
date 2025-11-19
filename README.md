@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Arman Mirzaee
 
-🎯 Software Developer with experience in **Python**, **JavaScript**, **.NET Core**, **Docker** and **Laravel**  
+🎯 Software Developer with experience in **Python**, **JavaScript**, **.NET Core**, **Docker**, **Restful API** and **Laravel**  
 💡 Passionate about API development, modern architectures, and solving complex problems
 
 ---
